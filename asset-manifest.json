@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/beshy-ko/static/css/main.4c286b83.css",
+    "main.js": "/beshy-ko/static/js/main.6e98dd79.js",
+    "static/js/787.5b3e19a2.chunk.js": "/beshy-ko/static/js/787.5b3e19a2.chunk.js",
+    "static/media/beshy.gif": "/beshy-ko/static/media/beshy.fc012a4913a5d563cf88.gif",
+    "index.html": "/beshy-ko/index.html",
+    "main.4c286b83.css.map": "/beshy-ko/static/css/main.4c286b83.css.map",
+    "main.6e98dd79.js.map": "/beshy-ko/static/js/main.6e98dd79.js.map",
+    "787.5b3e19a2.chunk.js.map": "/beshy-ko/static/js/787.5b3e19a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c286b83.css",
+    "static/js/main.6e98dd79.js"
+  ]
+}
