@@ -20,7 +20,6 @@ function App() {
   const [message, setMessage] = useState("");
 
   str = message.replace(/\s+/g, " 🤸 ").toLowerCase();
-  console.log(`${str}`); // "sonic-free-games"
   return (
     <div className="bg-gray-50 w-[100vw] h-[100vh] flex flex-col justify-center items-center">
       <Card className="bg-gray-100 flex flex-col justify-center items-center p-10">
